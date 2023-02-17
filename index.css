@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 60px;
+    padding-top: 50px;
+}
+
+.grr {
+    color: green;
+}
+
+.main {
+    display: flex;
+}
+
+img {
+    max-width: 600px;
+    margin-left: -400px;
+}
+
+.left {
+    padding: 150px 380px;
+    font-size: 20px;
+
+}
+
+ul {
+    padding: 20px;
+}
+
+form {}
+
+input {
+    display: block;
+    height: 50px;
+    width: 600px;
+    margin: 15px;
+    border-radius: 9px;
+    border: 1px solid gainsboro;
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+.sd{
+height: 50px;
+width: 600px;
+background-color: green;
+color: wheat;
+font-size: 15px;
+border-radius: 9px;
+border: 0px;
+}
+.sd:hover{
+    background-color: black;
+    transition: .5s ease;
+}
